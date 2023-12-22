@@ -1,6 +1,5 @@
 # S-H-CLOCKIN
 This project contains two main programs that work togeather.
-WARNING!!!!! These program are extremly MESSY (In this PROJECT) 
 
 (The key was to output a program that could help a small business while learning how to push/pull data into/from excel in replace of a database.)
 
